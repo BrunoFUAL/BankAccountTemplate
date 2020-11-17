@@ -14,7 +14,7 @@ public class BusinessAccountClass extends AccountClass implements BusinessAccoun
     }
 
     @Override
-    public void setLoanLimite(double loanLimit) {
+    public void setLoanLimit(double loanLimit) {
         this.loanLimit = loanLimit;
 
     }
